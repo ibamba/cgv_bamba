@@ -1,2 +1,2 @@
-# Study
-Some university Projects and personal projects
+# cgv-bamba
+Un logiciel de gestion de stock. Recense pour une entreprise de commerce toutes les marchandises en stocks, en rupture de stock et gère tous les mouvements liés au stock. Gère aussi les emprunts des clients (dette), les fiches clients, les versements...
